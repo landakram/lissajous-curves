@@ -2,6 +2,8 @@
 
 Experiments with Lissajous curves.
 
+![](generated/lissajous.svg)
+
 ## Usage
 
 LightTable - open `core.clj` and press `Ctrl+Shift+Enter` to evaluate the file.
